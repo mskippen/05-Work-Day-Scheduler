@@ -69,3 +69,44 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+
+form {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+input {
+  /* background-color: lime; */
+  border: 1px solid grey;
+  padding: 0.7rem 1rem;
+  /* display: inline-block; */
+  width: 100%;
+}
+
+.time-block-wrapper {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.timeblock-container {
+  width: 70%;
+  margin: 1rem auto;
+}
+
+.time {
+  margin-right: 20px;
+  font-size: 12px;
+  min-width: 5%;
+}
+
+button {
+  background-color: #11afca;
+  border: none;
+  color: #fff;
+  padding: 0 1rem;
+  border-radius: 0 4px 4px 0;
+  cursor: pointer;
+}
