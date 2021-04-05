@@ -8,9 +8,9 @@ A simple calendar application that allows a user to save events for each hour of
 
 AS AN employee with a busy schedule
 YOU can add important events to a daily planner
-SO THAT YOU can manage my time effectively
+SO THAT YOU can manage your time effectively
 
-## Acceptance Criteria
+## Features
 
 GIVEN you are using a daily planner to create a schedule
 WHEN you open the planner
@@ -26,15 +26,14 @@ THEN the text for that event is saved in local storage
 WHEN you refresh the page
 THEN the saved events persist
 
-The following animation demonstrates the application functionality:
+## The following images demonstrate the application functionality:
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif) ****ADD IMAGE OF MINE
+![A user clicks on slots on the color-coded calendar and edits the events.](./images/Calendar functionality.JPG)
 
 ## URLs
 
 * The URL of the deployed application:
 
-
-* The URL of the GitHub repository, with a unique name and a README describing the project:
+* The URL of the GitHub repository, with a unique name and a README describing the project: https://github.com/mskippen/05-Work-Day-Scheduler.git
 
 © 2021 Project Agents Pty Ltd. Confidential and Proprietary. All Rights Reserved.
