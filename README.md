@@ -28,7 +28,7 @@ THEN the saved events persist
 
 ## The following images demonstrate the application functionality:
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./images/Calendar functionality.JPG)
+![A user clicks on slots on the color-coded calendar and edits the events.](images\calendarFunctionality.JPG)
 
 ## URLs
 
