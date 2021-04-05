@@ -5,8 +5,7 @@ $(document).ready(function () {
   $("#currentDay").html(DateAtTop);
 
   var hoursArray = [
-    "05AM",
-    "08AM",
+    "09AM",
     "10AM",
     "11AM",
     "12PM",
