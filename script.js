@@ -50,7 +50,7 @@ $(document).ready(function () {
         `;
     $(".container").html(output);
   });
-  var events = JSON.parse(localStorage.getItem("events")); //grab saved events from localstorage
+  var events = JSON.parse(localStorage.getItem("events")); //grab saved events from localStorage
   var inputs = document.querySelectorAll("input");
   $.each(events, function (index, event) {
     console.log(events);
@@ -72,7 +72,7 @@ function insertEvent(event) {
 }
 
 function saveEvent(value, key) {
-  var eventObject = new Object(); // create a new objetc
+  var eventObject = new Object(); // create a new object
   eventObject[key] = value; // assign key and value pair to the created object
   var eventArray = [];
 
