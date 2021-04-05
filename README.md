@@ -32,7 +32,7 @@ THEN the saved events persist
 
 ## URLs
 
-* The URL of the deployed application:
+* The URL of the deployed application: <https://mskippen.github.io/05-Work-Day-Scheduler/>
 * The URL of the GitHub repository, with a unique name and a README describing the project: <https://github.com/mskippen/05-Work-Day-Scheduler.git>
 
 © 2021 Project Agents Pty Ltd. Confidential and Proprietary. All Rights Reserved.
